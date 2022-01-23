@@ -28,6 +28,7 @@
     * Threads 
     * Coroutine
     * Async/await keyword
+    * Event loop, task
 
 ### Day 3 - APIs, Connecting to Exchange 
 1. Global exchanges
