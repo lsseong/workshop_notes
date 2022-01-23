@@ -10,11 +10,11 @@
     * Jupyter notebook (research) vs PyCharm (production)
 
 2. Python programming exercises
-    * Exercise - Methods
-    * Exercise - JSON and objects
-    * Exercise - List, Set and Map
-    * Exercise - Classes
-    * Exercise - Time, main
+    * Methods
+    * JSON and objects
+    * List, Set and Map
+    * Classes
+    * Time, main
 
 ### Day 2 - Python Asynchronous Programming
 1. Asyncio - intro to modern IO event-driven framework  
@@ -30,22 +30,24 @@
 
 ### Day 3 - APIs, Connecting to Exchange 
 1. FTX gateway
-    * Websocket connection
-    * REST connection
-    * Events
-    * Connect and reconnection
+    * Reading the APIs documentation
+    * Public vs private channel
+    * Access credentials and management
 2. Python programming exercise
     * REST APIs
     * Websocket APIs
     * A simple FTX gateway
+    * Events and callback
 
 3. (Bonus)
-   * Robustness and exception handling
+   * Robustness, auto-reconnection and exception handling
    * FTX gateway (full)
    * Dydx gateway (full)
 
 ### Day 4 - Strategy and Visualisation
 1. An arbitrage Strategy
-    * Spread calculation
-    * Visualisation
-    * Execution (To be continue...)
+   * What is it
+2. Python programming exercise
+   * A strategy class
+   * Spread calculation
+   * Visualisation
