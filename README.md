@@ -7,26 +7,45 @@
     * Order book
     * Order types
     * Strategy workflow
-    * Classes and methods
+    * Jupyter notebook (research) vs PyCharm (production)
+
+2. Python programming exercises
+    * Exercise - Methods
+    * Exercise - JSON and objects
+    * Exercise - List, Set and Map
+    * Exercise - Classes
+    * Exercise - Time, main
 
 ### Day 2 - Python Asynchronous Programming
-2. Asyncio - intro to modern IO event-driven framework  
+1. Asyncio - intro to modern IO event-driven framework  
     * Python global Interpreter Lock (GIL) - what does it mean to concurrency
     * Synchronous vs asynchronous programming
     * Concurrent programming with async IO
-    * Example
+    
+2. Python programming exercises
+    * Synchronous calls
+    * Threads 
+    * Coroutine
+    * Async/await keyword
 
 ### Day 3 - APIs, Connecting to Exchange 
-3. FTX gateway
+1. FTX gateway
     * Websocket connection
     * REST connection
     * Events
     * Connect and reconnection
-4. (Bonus) Dydx gateway
-    * Quick intro
+2. Python programming exercise
+    * REST APIs
+    * Websocket APIs
+    * A simple FTX gateway
+
+3. (Bonus)
+   * Robustness and exception handling
+   * FTX gateway (full)
+   * Dydx gateway (full)
 
 ### Day 4 - Strategy and Visualisation
-5. An arbitrage Strategy
+1. An arbitrage Strategy
     * Spread calculation
     * Visualisation
     * Execution (To be continue...)
