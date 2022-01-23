@@ -30,17 +30,21 @@
     * Async/await keyword
 
 ### Day 3 - APIs, Connecting to Exchange 
-1. FTX gateway
+1. Global exchanges
+    * Equities, fixed-income, futures, FX, cryptocurrencies
+    * Location, latency
+    * APIs specification
+2. FTX gateway
     * Reading the APIs documentation
     * Public vs private channel
     * Access credentials and management
-2. Python programming exercise
+3. Python programming exercise
     * REST APIs
     * Websocket APIs
     * A simple FTX gateway
     * Events and callback
 
-3. (Bonus)
+4. (Bonus)
    * Robustness, auto-reconnection and exception handling
    * FTX gateway (full)
    * Dydx gateway (full)
