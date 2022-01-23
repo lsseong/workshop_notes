@@ -8,6 +8,7 @@
     * Order types
     * Strategy workflow
     * Jupyter notebook (research) vs PyCharm (production)
+    * Debugger and breakpoints
 
 2. Python programming exercises
     * Methods
