@@ -56,3 +56,7 @@
    * A strategy class
    * Spread calculation
    * Visualisation
+
+### Readings Recommendation
+1. Flash Boys by Michael Lewis
+2. Pairs Trading, Quantitative Methods and Analysis by Ganaphathy Vidyamurthy
