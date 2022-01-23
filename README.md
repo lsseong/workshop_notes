@@ -6,13 +6,13 @@
 1. Algorithmic trading - concept and design 
     * Order book
     * Order types
-    * Synchronous execution
     * Strategy workflow
     * Classes and methods
 
 ### Day 2 - Python Asynchronous Programming
 2. Asyncio - intro to modern IO event-driven framework  
     * Python global Interpreter Lock (GIL) - what does it mean to concurrency
+    * Synchronous vs asynchronous programming
     * Concurrent programming with async IO
     * Example
 
