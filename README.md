@@ -11,10 +11,9 @@
     * Debugger and breakpoints
 
 2. Python programming exercises
-    * Methods
+    * Methods & Classes
     * JSON and objects
-    * List, Set and Map
-    * Classes
+    * Data structures - List, Set and Map    
     * Time, main
 
 ### Day 2 - Python Asynchronous Programming
